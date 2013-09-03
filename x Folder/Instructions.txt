@@ -1,0 +1,98 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: x.indd
+
+PACKAGE DATE: 28/08/13 21:39
+Creation Date: 28/08/13
+Modification Date: 28/08/13
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :On Page20, 21, 22, 23, 24, 25, 27
+
+FONTS
+11 Fonts Used; 0 Missing, 5 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Consolas; Type: ???, Status: Embedded
+- Name: Lekton-Bold; Type: ???, Status: Embedded
+- Name: Lekton-Bold; Type: OpenType TrueType, Status: OK
+- Name: Lekton-Italic; Type: TrueType, Status: Embedded
+- Name: Lekton-Regular; Type: ???, Status: Embedded
+- Name: Lekton-Regular; Type: OpenType TrueType, Status: OK
+- Name: MinionPro-Regular; Type: OpenType Type 1, Status: OK
+- Name: Mix02-400wt; Type: OpenType Type 1, Status: OK
+- Name: Mix02-800wt; Type: OpenType Type 1, Status: OK
+- Name: Mix02Italic-400wt; Type: OpenType Type 1, Status: OK
+- Name: TitilliumText22L-Light; Type: Type 1, Status: Embedded
+
+
+COLOURS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 45,000; Lines/Inch: 60,000
+- Name and Type: Process Magenta; Angle: 45,000; Lines/Inch: 60,000
+- Name and Type: Process Yellow; Angle: 45,000; Lines/Inch: 60,000
+- Name and Type: Process Black; Angle: 45,000; Lines/Inch: 60,000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 20 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 14 use RGB colour space
+
+
+PRINT SETTINGS
+PPD: Xerox Phaser 4500N, (Xerox Phaser 4500N)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 mm, 0 mm, 0 mm, 0 mm
+Colour: Composite, Colours in Black.
+Trapping Mode: None
+Send Image Data: Optimised Subsampling
+OPI/DCS Image Replacement: No
+Page Size: A4
+Paper Dimensions: 209,903 mm x 297,039 mm
+Orientation: Landscape
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. x.indd; type: Adobe InDesign publication; size: 30804K
+2. Lekton-Bold.ttf; type: Font file; size: 111K
+3. Lekton-Regular.ttf; type: Font file; size: 111K
+4. MinionPro-Regular.otf; type: Font file; size: 225K
+5. Mix02005.otf; type: Font file; size: 50K
+6. Mix02009.otf; type: Font file; size: 52K
+7. Mix02Italic005.otf; type: Font file; size: 52K

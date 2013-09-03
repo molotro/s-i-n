@@ -1,0 +1,92 @@
+ISTRUZIONI DI STAMPA ADOBE INDESIGN DESTINATE AL SERVICE DI STAMPA
+
+NOME PUBBLICAZIONE: presentazione-20130829.indd
+
+DATA PREPARAZIONE PACCHETTO: 29/08/13 10:40
+Data di creazione: 29/08/13
+Data di modifica: 29/08/13
+
+INFORMAZIONI DI CONTATTO
+
+Nome società: 
+Contatto: 
+Indirizzo: 
+
+
+
+
+
+Telefono: 
+Fax: 
+E-mail: 
+
+ISTRUZIONI SPECIALI E ALTRE INDICAZIONI
+
+
+
+
+
+
+Plug-in esterni 0
+Oggetti non opachi: A pagina20, 21, 22, 23, 24, 25, 27
+
+FONT
+6 font usati; 1 mancanti, 0 incorporati, 0 incompleti, 0 protetti
+
+Font inclusi nel pacchetto
+- Nome: Lekton-Bold; Tipo: OpenType TrueType, Stato: OK
+- Nome: Lekton-Regular; Tipo: OpenType TrueType, Stato: OK
+- Nome: MinionPro-Regular; Tipo: OpenType Type 1, Stato: OK
+- Nome: Mix02 800 wt; Tipo: ???, Stato: mancanti
+- Nome: Mix02-400wt; Tipo: OpenType Type 1, Stato: OK
+- Nome: Mix02Italic-400wt; Tipo: OpenType Type 1, Stato: OK
+
+
+COLORI E INCHIOSTRI
+4 inchiostri di quadricromia; 0 inchiostri tinta piatta
+
+- Nome e tipo: Cyan quadricromia; Angolo: 45,000; Linee/pollice: 60,000
+- Nome e tipo: Magenta quadricromia; Angolo: 45,000; Linee/pollice: 60,000
+- Nome e tipo: Giallo quadricromia; Angolo: 45,000; Linee/pollice: 60,000
+- Nome e tipo: Nero quadricromia; Angolo: 45,000; Linee/pollice: 60,000
+
+
+COLLEGAMENTI E IMMAGINI
+(Solo collegamenti mancanti e incorporati)
+Collegamenti e immagini: 21 collegamenti trovati; 0 modificati, 0 mancanti 0 Non accessibile
+Immagini: 0 incorporati, 15 usano spazio cromatico RGB
+
+
+IMPOSTAZIONI DI STAMPA
+PPD: Xerox Phaser 4500N, (Xerox Phaser 4500N)
+Stampa in corso su: Stampante
+Numero di copie: 1
+Pagine affiancate: No
+Pagine pari/dispari: Entrambe
+Pagine: Tutte
+Prova di stampa: No
+Divisione in porzioni: Nessuno
+Scala: 100%, 100%
+Posizione pagina: In alto a sinistra
+Stampa livelli: Livelli visibili e stampabili
+Segni di stampa: Nessuno
+Pagina al vivo: 0 mm, 0 mm, 0 mm, 0 mm
+Colore: Composito, colori in nero.
+Modalità abbondanza: Nessuno
+Invia dati immagine: Subsampling ottimizzato
+Sostituzione immagini OPI/DCS: No
+Dimensioni pagina: A4
+Dimensioni carta: 209,903 mm x 297,039 mm
+Orientamento: Orizzontale
+Negativo: No
+Modalità riflessione: Disattivato
+
+
+ELENCO DEI FILE DEL PACCHETTO
+
+1. presentazione-20130829.indd; tipo: Pubblicazione Adobe InDesign; dimensione: 41652K
+2. Lekton-Bold.ttf; tipo: Font; dimensione: 111K
+3. Lekton-Regular.ttf; tipo: Font; dimensione: 111K
+4. MinionPro-Regular.otf; tipo: Font; dimensione: 212K
+5. Mix02005.otf; tipo: Font; dimensione: 50K
+6. Mix02Italic005.otf; tipo: Font; dimensione: 52K
